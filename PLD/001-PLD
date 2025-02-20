@@ -1,0 +1,11 @@
+1. rm -rf
+2. cd ~
+3. touch .	ls -a
+4. cat		vi
+5. C-x C-s
+6. C-x u	
+7. u
+8. yy p
+9. hidden question
+10. git status
+11. git branch (branch name)
