@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la >> chmod +x ls_cwd_content
